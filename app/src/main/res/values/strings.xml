@@ -20,6 +20,9 @@
     <string name="about">About</string>
     <string name="my_name">Lusia Elvira Sue Sare</string>
     <string name="my_email">virasare@gmail.com</string>
+    <string name="share">Share</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="search">Search</string>
     <string-array name="data_title">
         <item>Tentang Kamu</item>
         <item>Bumi</item>
