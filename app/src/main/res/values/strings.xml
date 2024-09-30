@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">LiteralinkApps</string>
+    <string name="books_title">Book Title</string>
+    <string name="books_author">Nama Pengarang</string>
+    <string name="writer">Writer</string>
+    <string name="publisher">Publisher</string>
+    <string name="publisher_name">Publisher Name</string>
+    <string name="genre">Genre</string>
+    <string name="books_genre">Genre Buku</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="synopsis_detail">Detail Synopsis</string>
+    <string name="book_detail">Book Detail</string>
+    <string name="language">Language</string>
+    <string name="language_name">Language Name</string>
+    <string name="year">Year</string>
+    <string name="pub_year">Tahun Terbit</string>
+    <string name="page">Page</string>
+    <string name="num_page">Jumlah Halaman</string>
+    <string name="read_now">Read Now</string>
+    <string name="about">About</string>
+    <string name="my_name">Lusia Elvira Sue Sare</string>
+    <string name="my_email">virasare@gmail.com</string>
+    <string-array name="data_title">
+        <item>Tentang Kamu</item>
+        <item>Bumi</item>
+        <item>Laut Bercerita</item>
+        <item>Dunia Sophie : Sebuah Novel Filsafat</item>
+        <item>Janji</item>
+        <item>Hujan</item>
+        <item>Rindu</item>
+        <item>ILY</item>
+        <item>Hello</item>
+        <item>Ayahku (bukan) Pembohong</item>
+    </string-array>
+
+    <string-array name="data_author">
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Leila S. Chudori</item>
+        <item>Jostein Gaarder</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+        <item>Tere Liye</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Fiksi, Roman</item>
+        <item>Fantasi, Fiksi Remaja</item>
+        <item>Fiksi Sejarah, Sosial</item>
+        <item>Filosofi, Fiksi</item>
+        <item>Roman, Fiksi</item>
+        <item>Fiksi Ilmiah, Roman</item>
+        <item>Fiksi Sejarah, Roman</item>
+        <item>Fantasi, Fiksi Remaja</item>
+        <item>Roman, Fiksi</item>
+        <item>Roman, Fiksi Keluarga</item>
+    </string-array>
+
+    <string-array name="data_synopsis">
+        <item>Terima kasih untuk kesempatan mengenalmu, itu adalah salah satu anugerah terbesar hidupku. Cinta memang tidak perlu ditemukan, cintalah yang akan menemukan kita.
+            Terima kasih. Nasihat lama itu benar sekali, aku tidak akan menangis karena sesuatu telah berakhir, tapi aku akan tersenyum karena sesuatu itu pernah terjadi.
+            Masa lalu. Rasa sakit. Masa depan. Mimpi-mimpi. Semua akan berlalu, seperti sungai yang mengalir. Maka biarlah hidupku mengalir seperti sungai kehidupan.</item>
+        <item>Namaku Raib, usiaku 15 tahun, kelas sepuluh. Aku anak perempuan seperti kalian, adik-adik kalian, tetangga kalian. Aku punya dua kucing, namanya si Putih dan si Hitam. Mama dan papaku menyenangkan. Guru-guru di sekolahku seru. Teman-temanku baik dan kompak.
+            Aku sama seperti remaja kebanyakan, kecuali satu hal. Sesuatu yang kusimpan sendiri sejak kecil. Sesuatu yang menakjubkan.
+            Namaku, Raib. Dan aku bisa menghilang.</item>
+        <item>Laut Bercerita, novel terbaru Leila S. Chudori, bertutur tentang kisah keluarga yang kehilangan, sekumpulan sahabat yang merasakan kekosongan di dada, sekelompok orang yang gemar menyiksa dan lancar berkhianat, sejumlah keluarga yang mencari kejelasan makam anaknya, dan tentang cinta yang tak akan luntur.</item>
+        <item>Sophie, seorang pelajar sekolah menengah berusia empat belas tahun. Suatu hari sepulang sekolah, dia mendapat sebuah surat misterius yang hanya berisikan satu pertanyaan: “Siapa kamu?” Belum habis keheranannya, pada hari yang sama dia mendapat surat lain yang bertanya: “Dari manakah datangnya dunia?” Seakan tersentak dari rutinitas hidup sehari-hari, surat-surat itu membuat Sophie mulai mempertanyakan soal-soal mendasar yang tak pernah dipikirkannya selama ini. Dia mulai belajar filsafat.</item>
+        <item>Novel Janji karya Tere Liye menceritakan sosok tiga sekawan pembuat onar yang bernama Hasan, Baso dan Kahar di sebuah sekolah agama. Kenakalan mereka sudah tidak bisa terhitung lagi, hingga pada puncaknya saat calon Presiden dan staffnya datang menemui Buya (kiyai) selaku pemilik sekolah agama tersebut. Hasan, Baso dan Kahar secara sengaja memasukkan garam ke dalam teh calon Presiden, staff Presiden dan juga Buya. Buya (kiyai) tidak menghukum Hasan, Baso dan Kahar, melainkan meminta mereka untuk mencari sosok Bahar. Setelah adanya kejadian itu, Bahar dikeluarkan dari sekolah. Namun, setelahnya ayah Buya menjadi sering kali bermimpi buruk akan perasaan bersalahnya kepada Bahar.</item>
+        <item>Saat usianya baru menginjak 13 tahun, Lail menjadi seorang yatim piatu akibat ayah dan ibu Lail yang terkena letusan Gunung Api Purba dan gempa yang membuat kota tempat mereka tinggal hancur
+            Lail yang pada saat itu juga termasuk korban bencana berhasil diselamatkan oleh anak laki-laki bernama Esok. Lail dan Esok akhirnya menjadi sepasang yang tak terpisahkan sampai akhirnya mereka harus berpisah karena tempat pengungsian yang mereka tinggali tutup. Lail akhirnya menetap di sebuah panti sosial dan Esok diangkat menjadi anak salah satu keluarga.
+            Mereka menjalani kehidupannya masing-masing. Pertemuan mereka untuk melepas rindu dilakukan rutin sebulan sekali meski akhirnya jadwal pertemuan harus diubah akibat Esok yang harus meneruskan pendidikan di Ibu Kota. Pertemuan mereka berubah menjadi setiap Esok berlibur semester. Frekuensi pertemuan keduanya semakin jarang.
+            Sampai suatu ketika, ayah angkat Esok, wali kota, menemui Lail dan memohon agar Lail menolak tiket yang akan diberikan esok agar tiket tersebut dapat diberikan ke anaknya. Kesalahpahaman pun terjadi. Lail tak kunjung mendapatkan kabar dari Esok. Akhirnya, Lail memutuskan untuk masuk ke ruang modifikasi ingatan. Lail ingin semua memori dan beban yang ada di ingatannya menghilang. Lantas apa yang akan terjadi pada kisah Lail dan Esok?</item>
+        <item>Apalah arti memiliki? Ketika diri kami sendiri bukanlah milik kami. Apalah arti kehilangan, Ketika kami sebenarnya menemukan banyak saat kehilangan, dan sebaliknya, kehilangan banyak pula saat menemukan? Apalah arti cinta, Ketika kami menangis terluka atas perasaan yang seharusnya indah? Bagaimana mungkin, kami terduduk patah hati atas sesuatu yang seharusnya suci dan tidak menuntut apa pun? Wahai, bukankah banyak kerinduan saat kami hendak melupakan? Dan tidak terbilang keinginan melupakan saat kami dalam rindu? Hingga rindu dan melupkan jaraknya setipis benang saja.” Ini adalah kisah tentang masa lalu yang memilukan. Tentang kebencian kepada seseorang yang seharusnya disayangi. Tentang kehilangan kekasih hati. Tentang cinta sejati. Tentang kemunafikan. Lima kisah dalam sebuah perjalanan panjang kerinduan. Selamat membaca.</item>
+        <item>Petualangan Raib dan Seli di klan Matahari Minor semakin genting.
+            Petualangan ini adalah jawaban. Atas pertanyaan-pertanyaan yang belum terjawab. Juga tentang kehilangan dan menemukan. Tentang memilih dan pengorbanan.
+            Petualangan ini juga adalah persimpangan. Apakah Raib dan Seli akan memilih jalan terbaik? Apakah mereka akan terus menjadi sahabat, atau membenci satu sama lain?
+            Lantas bagaimana dengan Ali? Apakah dia tidak ingin bergegas pulang ke klan Bumi bertemu dengan jutaan fans-nya?</item>
+        <item>Hello Apakah kamu di sana? Aku tahu kamu di sana. Aku tahu kamu mendengarkan suaraku.
+            Hello Aku tahu kita belum bisa bicara. Tapi aku tidak bisa menahan diriku untuk meneleponmu. Aku hanya hendak bilang, aku tidak akan menyerah.
+            Aku akan selalu menyayangimu.</item>
+        <item>Novel ini menceritakan tentang kisah seorang anak yang dibesarkan dengan dongeng-dongeng kesederhanaan hidup. Kesederhanaan yang justru membuat ia membenci ayahnya sendiri. Inilah kisah tentang hakikat kebahagiaan sejati. Novel ini dikemas dengan sangat baik oleh sang penulis yaitu Tere Liye dengan latar yang bagus dan bahasa yang mudah dipahami pembaca. Banyak kalimat motivasi dan kalimat yang masuk akal di setiap paragraf. Kalimat-kalimat tersebut dapat meningkatkan rasa sayang terhadap keluarga, terutama ayah. Sinopsis Buku Kapan terakhir kali kita memeluk ayah kita? Menatap wajahnya, lantas bilang kita sungguh sayang padanya? Kapan terakhir kali kita bercakap ringan, tertawa gelak, bercengkerama, lantas menyentuh lembut tangannya, bilang kita sungguh bangga padanya? Inilah kisah tentang seorang anak yang dibesarkan dengan dongeng-dongeng kesederhanaan hidup. Kesederhanaan yang justru membuat ia membenci ayahnya sendiri. Inilah kisah tentang hakikat kebahagiaan sejati. Jika kalian tidak menemukan rumus itu di novel ini, tidak ada lagi cara terbaik untuk menjelaskannya. Mulailah membaca novel ini dengan hati lapang, dan saat tiba di halaman terakhir, berlarilah secepat mungkin menemui ayah kita, sebelum semuanya terlambat, dan kita tidak pernah sempat mengatakannya. Buku ini dapat menarik kita ke dalam cerita dan membuat kita merasa seperti berada di sana dan menyaksikan apa yang terjadi. Buku ini akan membuat pembaca mengerti apa itu kebahagiaan sejati.</item>
+    </string-array>
+
+    <string-array name="data_publisher">
+        <item>Republika</item>
+        <item>Gramedia Pustaka Utama</item>
+        <item>Gramedia Pustaka Utama</item>
+        <item>Bandung Mizan Pustaka</item>
+        <item>Sabak Grip Nusantara</item>
+        <item>Gramedia Pustaka Utama</item>
+        <item>Republika</item>
+        <item>Sabak Grip Nusantara</item>
+        <item>Gramedia Pustaka Utama</item>
+        <item>Gramedia Pustaka Utama</item>
+    </string-array>
+
+    <string-array name="data_language">
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+        <item>Indonesia</item>
+    </string-array>
+
+    <integer-array name="data_year">
+        <item>2016</item>
+        <item>2019</item>
+        <item>2017</item>
+        <item>1996</item>
+        <item>2021</item>
+        <item>2019</item>
+        <item>2014</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2018</item>
+    </integer-array>
+
+    <integer-array name="data_page">
+        <item>504</item>
+        <item>440</item>
+        <item>379</item>
+        <item>798</item>
+        <item>250</item>
+        <item>320</item>
+        <item>544</item>
+        <item>380</item>
+        <item>320</item>
+        <item>299</item>
+    </integer-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/tentangkamu</item>
+        <item>@drawable/bumi</item>
+        <item>@drawable/lautbercerita</item>
+        <item>@drawable/duniashopie</item>
+        <item>@drawable/janji</item>
+        <item>@drawable/hujan</item>
+        <item>@drawable/rindu</item>
+        <item>@drawable/ily</item>
+        <item>@drawable/hello</item>
+        <item>@drawable/ayahkubukanpembohong</item>
+    </integer-array>
+</resources>
