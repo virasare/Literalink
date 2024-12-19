@@ -17,5 +17,5 @@
         <item name="android:textColor">@color/white</item>
         <item name="android:textStyle">bold</item>
     </style>
-    <style name="Theme.LiteralinkApps" parent="Base.Theme.LiteralinkApps" />
+    <style name="Theme.LiteralinkApps" parent="Theme.Material3.DayNight" />
 </resources>

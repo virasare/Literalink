@@ -1,4 +1,4 @@
-package com.dicoding.literalinkapps
+package com.dicoding.literalinkapps.ui.adapter
 
 import android.content.Intent
 import android.util.Log
@@ -8,6 +8,9 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
+import com.dicoding.literalinkapps.Book
+import com.dicoding.literalinkapps.R
+import com.dicoding.literalinkapps.ui.detail.DetailActivity
 
 class ListBookAdapter(private val listBook: ArrayList<Book>) : RecyclerView.Adapter<ListBookAdapter.ListViewHolder>(){
     private lateinit var onItemClickCallback: OnItemClickCallback

@@ -19,5 +19,14 @@
         <item name="android:textStyle">bold</item>
     </style>
 
-    <style name="Theme.LiteralinkApps" parent="Base.Theme.LiteralinkApps" />
+    <style name="Theme.LiteralinkApps" parent="Theme.Material3.DayNight" />
+
+    <style name="NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.DayNight" />
+
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
 </resources>

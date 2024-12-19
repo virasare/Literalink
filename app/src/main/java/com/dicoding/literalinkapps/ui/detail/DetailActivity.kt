@@ -1,4 +1,4 @@
-package com.dicoding.literalinkapps
+package com.dicoding.literalinkapps.ui.detail
 
 import android.content.Intent
 import android.net.Uri
@@ -11,6 +11,8 @@ import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.dicoding.literalinkapps.Book
+import com.dicoding.literalinkapps.R
 
 class DetailActivity : AppCompatActivity() {
 
