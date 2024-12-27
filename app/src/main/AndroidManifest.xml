@@ -15,6 +15,18 @@
         android:theme="@style/Theme.Material3.DayNight"
         tools:targetApi="31">
         <activity
+            android:name=".ui.auth.signup.SignupActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.auth.login.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.welcome.WelcomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.onboarding.OnboardingActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.sidebar.settings.SettingsActivity"
             android:exported="false"
             android:label="@string/title_activity_settings" />

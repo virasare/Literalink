@@ -36,6 +36,24 @@
     <string name="bookmark">Bookmark</string>
     <string name="search">Search</string>
 
+    <!--    onboarding-->
+    <string name="title1">Temukan Buku Favorit Anda Di Sini</string>
+    <string name="subtitle1">Kami ingin membantu Anda menemukan buku-buku yang akan menginspirasi, menghibur, dan mengedukasi, sehingga Anda dapat menikmati pengalaman membaca yang benar-benar memuaskan.</string>
+    <string name="title2">Jelajahi Dunia Baca Bersama Kami</string>
+    <string name="subtitle2"> LiteraLink menyediakan akses mudah ke dunia buku-buku yang tak terbatas, Rasakan kebebasan membaca di mana saja, kapan saja, dengan aplikasi kami</string>
+    <string name="button_next">Next</string>
+    <string name="button_skip">Skip</string>
+    <string name="button_back">Back</string>
+
+    <!--    welcome and auth-->
+    <string name="titleWelcome">"Welcome to <font color="#3498DB">Literalink</font>, Discover New Stories!"</string>
+    <string name="loginButton">Log In</string>
+    <string name="signupButton">Sign Up</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Log In</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_password">Password</string>
 
     <string-array name="data_title">
         <item>Tentang Kamu</item>
@@ -193,4 +211,6 @@
     <string name="attachment_summary_on">Automatically download attachments for incoming emails
     </string>
     <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
